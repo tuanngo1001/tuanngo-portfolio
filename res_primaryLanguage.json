@@ -1,0 +1,117 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 Hi there, I'm Tuan Ngo. I'm currently working with ReactJS front-end framework and mobile application frameworks like Flutter, Swift and Android Studio. Thank you 🤟",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience & Education"
+      }
+    },
+    "projects": [
+      {
+        "title": "Tubtrunk",
+        "startDate": "2021",
+        "description": "Tubtrunk is a cross-platform focus application with interesting rewards ",
+        "images": [
+          "images/portfolio/tubtrunk/tubtrunk-flutter.png"
+        ],
+        "url": "https://github.com/tuanngo1001/tubtrunk",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "Literacy Website",
+        "startDate": "2020",
+        "description": "Literacy Website is a video call platform integrated with children books library that helps poor countries's children with their literacy",
+        "images": [
+          "images/portfolio/literacy/literacy-website.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain-wordmark",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS"
+          }
+        ]
+      },
+      {
+        "title": "CS-Experience App",
+        "startDate": "2019",
+        "description": "My first Android Application in University of Manitoba, which is a completed, self-contained Android Simulation – RPG hybrid game.",
+        "images": [
+          "images/portfolio/CSE/CSexperience.png"
+        ],
+        "url": "https://github.com/tuanngo1001/idk-6",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Canada Life Assurance Company",
+        "title": "Co-op Software Developer",
+        "years": "01.2020 - 05.2020",
+        "mainTech": [
+          "ReactJS"
+        ],
+        "technologies": [
+          "REST API",
+          "Redux",
+          "JavaScript",
+          "Bootstrap",
+          "Java",
+          "Bitbucket",
+          "JIRA",
+          "Splunk"
+        ],
+        "descriptions": [
+          "Developed front-end of an internal web-based application which allow broker compensation to be calculated in a repeatable and trackable manner.",
+          "Modernized the front-end design technology from Java to ReactJS with Redux, Node.js, and RESTful API which improved the developing process.",
+          "Collaborated with local and remote team members in order to test, debug and optimize the project’s performance.",
+          "Monitored computer system performance using Splunk Enterprise software to locate and resolve the system’s problems."
+        ]
+      },
+      {
+        "company": "University of Manitoba",
+        "title": "Bachelor of Computer Science",
+        "years": "2018 - 2021",
+        "mainTech": [
+        ],
+        "technologies": [
+        ],
+        "descriptions": [
+          "Specialized in Software Engineering"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tuanngo-portfolio/static/css/main.40f0e6cc.chunk.css",
+    "main.js": "/tuanngo-portfolio/static/js/main.f8d00cf4.chunk.js",
+    "main.js.map": "/tuanngo-portfolio/static/js/main.f8d00cf4.chunk.js.map",
+    "runtime-main.js": "/tuanngo-portfolio/static/js/runtime-main.6638543a.js",
+    "runtime-main.js.map": "/tuanngo-portfolio/static/js/runtime-main.6638543a.js.map",
+    "static/css/2.d64471e2.chunk.css": "/tuanngo-portfolio/static/css/2.d64471e2.chunk.css",
+    "static/js/2.4e674235.chunk.js": "/tuanngo-portfolio/static/js/2.4e674235.chunk.js",
+    "static/js/2.4e674235.chunk.js.map": "/tuanngo-portfolio/static/js/2.4e674235.chunk.js.map",
+    "index.html": "/tuanngo-portfolio/index.html",
+    "precache-manifest.80b75b2e1cc088d3aeff24be2d330e8e.js": "/tuanngo-portfolio/precache-manifest.80b75b2e1cc088d3aeff24be2d330e8e.js",
+    "service-worker.js": "/tuanngo-portfolio/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/tuanngo-portfolio/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.40f0e6cc.chunk.css.map": "/tuanngo-portfolio/static/css/main.40f0e6cc.chunk.css.map",
+    "static/js/2.4e674235.chunk.js.LICENSE.txt": "/tuanngo-portfolio/static/js/2.4e674235.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6638543a.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.4e674235.chunk.js",
+    "static/css/main.40f0e6cc.chunk.css",
+    "static/js/main.f8d00cf4.chunk.js"
+  ]
+}
