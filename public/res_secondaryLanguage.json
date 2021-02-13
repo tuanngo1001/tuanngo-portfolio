@@ -1,0 +1,117 @@
+{
+    "basic_info": {
+      "description_header": "Xin Chào",
+      "description": "👋 Mình là Tuấn, Hiện tại mình đang làm việc với ReactJS framwork và lập trình ứng dụng điện thoại với Flutter framework, Swift và Android Studio. 🤟",
+      "section_name": {
+        "about": "Thông tin cá nhân",
+        "projects": "Dự án",
+        "skills": "Kỹ năng",
+        "experience": "Kinh nghiệm và Học vấn"
+      }
+    },
+    "projects": [
+      {
+        "title": "Tubtrunk",
+        "startDate": "2021",
+        "description": "Tubtrunk là một ứng dụng điện thoại đa nền tảng giúp tăng sự tập trung của người dùng",
+        "images": [
+          "images/portfolio/tubtrunk/tubtrunk-flutter.png"
+        ],
+        "url": "https://github.com/tuanngo1001/tubtrunk",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "Literacy Website",
+        "startDate": "2020",
+        "description": "Literacy Website là một ứng dụng web cho phép trẻ em có thể giao tiếp với nhau giúp xoá nạn mù chữ ở những nước kém phát triển.",
+        "images": [
+          "images/portfolio/literacy/literacy-website.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-nodejs-plain-wordmark",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS"
+          }
+        ]
+      },
+      {
+        "title": "CS-Experience App",
+        "startDate": "2019",
+        "description": "Ứng dụng điện thoại Android mình và bạn học đã phát triển trong khoá học của trường Đại học. Đây là một game giả lập cuộc sống của một sinh viên ngành Khoa học máy tính ở môi trường đại học",
+        "images": [
+          "images/portfolio/CSE/CSexperience.png"
+        ],
+        "url": "https://github.com/tuanngo1001/idk-6",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Canada Life Assurance Company",
+        "title": "Co-op Software Developer",
+        "years": "01.2020 - 05.2020",
+        "mainTech": [
+          "ReactJS"
+        ],
+        "technologies": [
+          "REST API",
+          "Redux",
+          "JavaScript",
+          "Bootstrap",
+          "Java",
+          "Bitbucket",
+          "JIRA",
+          "Splunk"
+        ],
+        "descriptions": [
+          "Phát triển giao diện cho web nội bộ của công ty cho phép việc tính toán việc bồi thường một cách lặp lại và có thể theo dõi dễ dàng.",
+          "Nâng cấp công nghệ thiết kế giao diện web nội bộ công ty từ Java sang React với Redux, Node.js và RESTful API, việc này đã cải thiện và đẩy nhanh dự án phát triển web hơn bản đầu.",
+          "Hợp tác với các đồng nghiệp ở những địa điểm khác nhau để test, debug và tối ưu hoá hiệu suất của dự án.",
+          "Theo dõi hiệu suất hệ thống máy chủ bằng phần mềm Splunk Enterprise để xác định vị trí và giải quyết các lỗi và sự cố của hệ thống."
+        ]
+      },
+      {
+        "company": "University of Manitoba",
+        "title": "Bachelor of Computer Science",
+        "years": "2018 - 2021",
+        "mainTech": [
+        ],
+        "technologies": [
+        ],
+        "descriptions": [
+          "Chuyên ngành Software Engineering"
+        ]
+      }
+    ]
+  }
